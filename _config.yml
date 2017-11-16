@@ -7,7 +7,7 @@ email: wsd_j2@126.com
 description: "一个小学生 | 王思达 | 希望能做出一点东西"
 keyword: "王思达, 爱吃土豆, 王思达的博客, 王思达 Blog, 博客, 互联网, 深度学习, 图像处理"
 url: "https://aichitudou.github.io"              
-baseurl: /                            # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                            # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -28,7 +28,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
