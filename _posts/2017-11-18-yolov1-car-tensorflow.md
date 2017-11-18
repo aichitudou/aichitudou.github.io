@@ -168,6 +168,13 @@ line 185: 你从kitti拷贝一个来,做检测
 如果是需要展开,那你在展开之前需要transpose一下. 终于找到问题, 泪奔~~
 
 
+## 后记
+我也把我修改的代码上传上去,
+[yolo_weight_extractor](https://github.com/aichitudou/yolo_weight_extractor)<br>(对应上面的YOLO_tensorflow)
+[yolo_tensorflow_car](https://github.com/aichitudou/yolo_tensorflow_car)(对应上面的yolo_tensorflow)
+
+
+
 
 
 
