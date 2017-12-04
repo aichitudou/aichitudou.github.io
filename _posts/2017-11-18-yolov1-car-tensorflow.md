@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "only car detection using yolov1 with tensorflow and the pretrained weights"
+title:      "car detection using tiny yolov1 tensorflow version " 
 subtitle:   ""
 author:     "aichitudou"
 header-img: "img/post-bg-2015.jpg"
