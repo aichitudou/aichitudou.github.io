@@ -76,6 +76,11 @@ test_interval: 1000 #每迭代1000次就在测试集上测试一下
 
 最后得到`train_iter_70000.caffemodel`，准确率能到99.8%，模型大小为2.8M
 
+测试模型的效果
+```
+python eval_classifier.py
+```
+
 ### deep compression
 需要用到[deep_compression](https://github.com/aichitudou/squeezenet_deep_compression/blob/master/deep_compression.py)和[deploy.prototxt](https://github.com/aichitudou/squeezenet_deep_compression/blob/master/deploy.prototxt)<br>
 调用deep compression
